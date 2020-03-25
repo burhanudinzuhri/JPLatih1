@@ -1,0 +1,2 @@
+# JPLatih
+Tugas program penjumlahan
